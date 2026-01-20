@@ -1,4 +1,4 @@
-// Name: Razan Muhammad Alturkistani
+// Name: Razan Mohammed Alturkistani
 // ID: 445002494
 
 package linearsearch;
